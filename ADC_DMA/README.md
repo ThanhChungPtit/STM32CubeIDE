@@ -1,0 +1,4 @@
+-Project STM32 thanh ghi đọc dữ liệu từ cảm biến ánh sáng và cảm biến mưa và hiển thị lên màn hình OLED
+-Sử dụng cơ chế truy cập bộ nhớ trực tiếp DMA để đọc 2 kênh ADC với chế độ chuyển đổi liên tục
+-Cấu hình I2C để giao tiếp với OLED
+-Sử dụng FreeRTOS chia làm 2 task đọc và hiển thị, các task giao tiếp với nhau qua mailQueue
