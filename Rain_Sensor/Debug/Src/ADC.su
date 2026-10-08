@@ -1,0 +1,2 @@
+../Src/ADC.c:3:6:ADC01_CH0_Init	16	static,ignoring_inline_asm
+../Src/ADC.c:24:10:ADC01_CH0_Read	4	static

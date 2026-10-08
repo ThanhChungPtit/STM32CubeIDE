@@ -1,0 +1,11 @@
+../Src/RCC.c:3:6:RCC_Config	4	static
+../Src/RCC.c:26:6:RCC_Enable_PortA	4	static
+../Src/RCC.c:29:6:RCC_Enable_PortB	4	static
+../Src/RCC.c:32:6:RCC_Enable_PortC	4	static
+../Src/RCC.c:35:6:RCC_Enable_AFIO	4	static
+../Src/RCC.c:38:6:RCC_Enable_TIM2	4	static
+../Src/RCC.c:41:6:RCC_Enable_TIM3	4	static
+../Src/RCC.c:44:6:RCC_Enable_ADC01	4	static
+../Src/RCC.c:47:6:RCC_Enable_UART1	4	static
+../Src/RCC.c:50:6:RCC_Enable_SPI01	4	static
+../Src/RCC.c:53:6:RCC_Enable_I2C01	4	static

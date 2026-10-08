@@ -1,0 +1,5 @@
+../Src/TIM.c:5:6:TIM_Init	1
+../Src/TIM.c:12:6:Delay_ms	3
+../Src/TIM.c:22:6:Delay_us	2
+../Src/TIM.c:31:6:PWM_Init	1
+../Src/TIM.c:39:6:Get_Duty	1
