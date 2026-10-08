@@ -1,0 +1,11 @@
+../Inc/clock/clock.c:3:6:RCC_Config	4
+../Inc/clock/clock.c:28:6:RCC_Enable_PortA	1
+../Inc/clock/clock.c:31:6:RCC_Enable_PortB	1
+../Inc/clock/clock.c:34:6:RCC_Enable_PortC	1
+../Inc/clock/clock.c:37:6:RCC_Enable_AFIO	1
+../Inc/clock/clock.c:40:6:RCC_Enable_TIM2	1
+../Inc/clock/clock.c:43:6:RCC_Enable_TIM3	1
+../Inc/clock/clock.c:46:6:RCC_Enable_ADC01	1
+../Inc/clock/clock.c:49:6:RCC_Enable_UART1	1
+../Inc/clock/clock.c:52:6:RCC_Enable_SPI01	1
+../Inc/clock/clock.c:55:6:RCC_Enable_I2C01	1

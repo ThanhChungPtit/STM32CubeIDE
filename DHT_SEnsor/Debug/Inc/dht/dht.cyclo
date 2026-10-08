@@ -1,0 +1,2 @@
+../Inc/dht/dht.c:5:9:DHT11_Read_Byte	5
+../Inc/dht/dht.c:23:5:DHT11_Read	6

@@ -1,0 +1,3 @@
+../Inc/gpio/gpio.c:2:6:GPIO_Config	16
+../Inc/gpio/gpio.c:57:6:GPIO_WritePin	2
+../Inc/gpio/gpio.c:65:9:GPIO_ReadPin	1
