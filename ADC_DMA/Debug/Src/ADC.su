@@ -1,0 +1,5 @@
+../Src/ADC.c:4:6:ADC01_Init	16	static
+../Src/ADC.c:24:10:ADC01_Read	4	static
+../Src/ADC.c:30:6:ADC02_Init	16	static
+../Src/ADC.c:50:10:ADC02_Read	4	static
+../Src/ADC.c:56:6:ADC01_Init_MultiChannel	24	static
