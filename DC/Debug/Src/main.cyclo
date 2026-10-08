@@ -1,0 +1,4 @@
+../Src/main.c:34:5:main	1
+../Src/main.c:71:6:Task_Keypad	2
+../Src/main.c:81:6:Task_Motor	10
+../Src/main.c:130:6:Task_OLED	2

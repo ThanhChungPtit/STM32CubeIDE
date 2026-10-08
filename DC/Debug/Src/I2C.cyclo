@@ -1,0 +1,8 @@
+../Src/I2C.c:3:6:I2C_Init	1
+../Src/I2C.c:10:6:I2C_Start	2
+../Src/I2C.c:15:6:I2C_Stop	2
+../Src/I2C.c:20:6:Clear_SB	1
+../Src/I2C.c:23:6:Clear_ADDR	1
+../Src/I2C.c:27:6:I2C_SendAdd	4
+../Src/I2C.c:40:6:I2C_WriteByte	3
+../Src/I2C.c:47:9:I2C_ReadByte	2

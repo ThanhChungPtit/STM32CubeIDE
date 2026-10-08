@@ -1,0 +1,5 @@
+../Src/TIM.c:3:6:TIM_Init	16	static
+../Src/TIM.c:10:6:Delay_ms	16	static
+../Src/TIM.c:20:6:Delay_us	16	static
+../Src/TIM.c:30:6:PWM_Init	24	static
+../Src/TIM.c:60:6:Set_Duty	24	static

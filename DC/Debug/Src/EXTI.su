@@ -1,0 +1,2 @@
+../Src/EXTI.c:5:10:Get_pin	24	static
+../Src/EXTI.c:14:6:EXTI_Init	24	static
